@@ -1,4 +1,4 @@
-# 🚀 Quantum-Inspired Procedural Level Generator - UnityKing
+# Quantum-Inspired Procedural Level Generator - UnityKing
 
 [![Unity](https://img.shields.io/badge/Unity-2021.3+-black.svg)](https://unity.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
